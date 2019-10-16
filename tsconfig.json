@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+      "lib": ["es6", "dom"],
+      "types": ["reflect-metadata"],
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true
+  }
+}
